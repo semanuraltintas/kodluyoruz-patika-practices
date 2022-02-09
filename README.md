@@ -1,1 +1,1 @@
-"# kodluyoruz-patika-practices" 
+"#Kodluyoruz - Patika Practices" 
